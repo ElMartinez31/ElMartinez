@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grelatif
+- 👋 Hi, I’m Martin
 - 👀 I’m interested in data science
 
 You can file all my projects in this folder, some are end to end projects, some a bricks of training.
